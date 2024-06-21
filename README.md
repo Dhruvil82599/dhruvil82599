@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-End<br>👯 I’m looking to collaborate on React<br>🤝 I’m looking for help with Development<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Javascript, Node.js, React
+🔭 I’m currently working on Back-End<br>👯 I’m looking to collaborate on Java<br>🤝 I’m looking for help with Development<br>🌱 I’m currently learning JAVA Full Stack<br>💬 Ask me about MySql, JAVA, React Etc.
 
 
 # 💻 Tech Stack:
